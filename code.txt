@@ -1,0 +1,54 @@
+h = 2;
+if(h>2){
+	z=0;
+	e=1;
+};else{
+    e=0;
+	z=2;
+};
+r = 2;
+v = 2 + 3.5;
+if(r == z){
+	if(e == 0){
+	ter = 5;
+	};
+};
+Stack int p;
+for(i in range 5){
+  p.insert(i);
+};
+Queue string d;
+d.insert(u);
+d.insert(m);
+d.insert(s);
+Queue int a;
+a.insert(10);
+a.insert(20);
+a.insert(30);
+Queue string b;
+b.insert(hi);
+b.insert(a);
+b.insert(he);
+a.delete();
+Stack int w;
+w.insert(40);
+w.insert(50);
+w.delete();
+Stack float c;
+c.insert(40.2);
+c.insert(50.65);
+c.erase();
+linkedlist l;
+l.insert(0,1);
+l.insert(0,2);
+l.insert(2,3);
+l.insert(0,4.2);
+l.delete(2);
+l.insert(1,7);
+l.insert(2,8);
+if(ter==5){
+	ter1 = 6;
+};
+
+f.insert();
+f.insert(10);
